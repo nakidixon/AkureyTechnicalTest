@@ -6,3 +6,5 @@ For each class located inside the Model folder, there is a controller (it has no
 
 In addition to that we find the Lib folder that contains the libraries that will be used in each programming language
 And finally it contains a folder called View (equally empty) that is responsible for containing the view of the Metalanguage program.
+
+In this way, structured with an MVC, it will be possible to ensure that the program is suitable for adding more programming languages ​​in the future without making massive changes within the code.
