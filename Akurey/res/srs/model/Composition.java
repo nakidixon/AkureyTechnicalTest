@@ -6,8 +6,9 @@ public class Composition {
 }
 
 
-//setters aplicado a cada variable de la funcion contructor
+//setters 
 public void setClass(String class){this.class = class }
+public void setEnd(String end){this.end = end }
 
-//getters aplicado a cada variable de la funcion contructor
-public String getClass (String class){return class }
+//getters 
+public String getEnd (String end){return end }

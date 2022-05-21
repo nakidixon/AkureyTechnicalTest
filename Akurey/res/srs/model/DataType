@@ -1,0 +1,12 @@
+package model;
+
+public class DataType {
+    String name;
+}
+
+
+//setters 
+public void setName(String name){this.name = name }
+
+//getters 
+public String getName (String name){return name }

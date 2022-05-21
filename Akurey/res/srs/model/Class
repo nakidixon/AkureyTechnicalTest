@@ -5,8 +5,8 @@ public class Class {
 }
 
 
-//setters aplicado a cada variable de la funcion contructor
+//setters 
 public void setAttribute(String attribute){this.attribute = attribute }
 
-//getters aplicado a cada variable de la funcion contructor
+//getters 
 public String getAttribute (String attribute){return attribute }
