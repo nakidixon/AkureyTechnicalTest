@@ -4,14 +4,16 @@ public class Attribute {
     int size;
     String value; 
     DataType dataType;
+
+    public void 
 }
 
 
-//setters aplicado a cada variable de la funcion contructor
+//setters 
 public void setSize(String size){this.size = size}
 //public void set... etc
 
-//getters aplicado a cada variable de la funcion contructor
+//getters 
 
 public String getSize (String size){return size}
 //public String get... etc
