@@ -1,6 +1,6 @@
 # AkureyTechnicalTest
 
-For this exercise I decided to work on an object-oriented model. I abstracted what would be a programming language as my initial class. It contains a name (Python example) and a namespace. A namespace contains one or more classes so create a class called Class that contains Attributes, values and a size. Attributes are classes that contain a data type which would be the Datatype class.
+For this exercise I decided to work on an object-oriented model. I abstracted what would be a programming Language as my initial class. It contains a name (Python example) and a namespace. A namespace contains one or more classes so icreated a class called Class that contains zero to * Attributes, values and a size. Attributes is a class that contain a data type which would be the Datatype class.
 
 For each class located inside the Model folder, there is a controller (it has no functions inside) however, it represents the container that stores the CRUD functions for each object.
 
