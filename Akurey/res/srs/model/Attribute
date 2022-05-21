@@ -1,0 +1,17 @@
+package model;
+
+public class Attribute {
+    int size;
+    String value; 
+    DataType dataType;
+}
+
+
+//setters aplicado a cada variable de la funcion contructor
+public void setSize(String size){this.size = size}
+//public void set... etc
+
+//getters aplicado a cada variable de la funcion contructor
+
+public String getSize (String size){return size}
+//public String get... etc

@@ -1,0 +1,12 @@
+package model;
+
+public class Class {
+    Attribute atributte;
+}
+
+
+//setters aplicado a cada variable de la funcion contructor
+public void setAttribute(String attribute){this.attribute = attribute }
+
+//getters aplicado a cada variable de la funcion contructor
+public String getAttribute (String attribute){return attribute }
